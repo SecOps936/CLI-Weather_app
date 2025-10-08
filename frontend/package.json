@@ -1,0 +1,17 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Weather App Frontend",
+  "main": "dist/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "lite-server",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^5.9.3"
+  }
+}
+
+
